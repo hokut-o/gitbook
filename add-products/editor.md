@@ -2,7 +2,7 @@
 description: test description
 ---
 
-# test heading2
+# エディターの操作方法
 
 test content
 
