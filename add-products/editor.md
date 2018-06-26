@@ -1,10 +1,2 @@
----
-description: test description
----
-
-# エディターの操作方法
-
-test content
-
-
+# 商材ページエディターの操作方法
 
