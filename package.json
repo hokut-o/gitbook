@@ -1,0 +1,24 @@
+{
+	"babel": {
+		"presets": [
+			"env"
+		]
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1"
+	},
+	"dependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-core": "^6.26.3",
+		"babel-loader": "^7.1.4",
+		"babel-preset-env": "^1.7.0",
+		"del": "^3.0.0",
+		"gulp-imagemin": "^4.1.0",
+		"gulp-sftp": "^0.1.5",
+		"imagemin-gifsicle": "^5.2.0",
+		"imagemin-jpeg-recompress": "^5.1.0",
+		"imagemin-pngquant": "^5.1.0",
+		"require-dir": "^1.0.0",
+		"run-sequence": "^2.2.1"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"plugins": [
+		"-sharing",
+		"hide-published-with",
+		"search-languages",
+		"image-captions",
+		"fancybox",
+		"modal-youtube-video"
+	],
+	"pluginsConfig": {
+		"searchLanguages": {
+			"lang": "jp"
+		},
+		"fancybox": {
+			"arrows": false,
+			"openSpeed": 100,
+			"closeSpeed": 100,
+			"closeClick": true,
+			"closeBtn": false,
+			"mouseWheel": false,
+			"modal": false,
+			"loop": false
+		},
+		"image-captions": {
+			"caption": "_CAPTION_"
+		}
+	},
+	"language": "ja"
+}
