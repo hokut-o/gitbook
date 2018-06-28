@@ -17,5 +17,5 @@
 
 新規のお知らせはトップページに１件のみ表示されます。
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 

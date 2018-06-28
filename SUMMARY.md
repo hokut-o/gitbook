@@ -1,7 +1,9 @@
 # Table of contents
 
 * [STK HELP NET 更新方法について](README.md)
-* [商材を新しく追加する](add-products.md)
+* [商材を新しく追加する](add-products/README.md)
+  * [商材のカテゴリーについて](add-products/nokategornitsuite.md)
+  * [カテゴリーの並び替え（製作途中）](add-products/kategornobie.md)
 * [お知らせページの更新](news.md)
 * [カレンダーページの更新](calendar.md)
 * [サービス約款ページの更新](clause.md)
