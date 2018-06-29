@@ -1,5 +1,5 @@
 /node_modules
 /.idea
-/_book
 /build
-.DS_Store           
+/_book
+.DS_Store

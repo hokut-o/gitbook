@@ -12,5 +12,5 @@ gulp.task('imgMin', () => {
 		imageminGif()
 	]))
 	.pipe(imagemin())
-	.pipe(gulp.dest('./build'));
+	.pipe(gulp.dest('./_book/.gitbook/assets/'));
 });

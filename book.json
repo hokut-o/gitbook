@@ -5,7 +5,8 @@
 		"search-languages",
 		"image-captions",
 		"fancybox",
-		"modal-youtube-video"
+		"modal-youtube-video",
+		"nocache"
 	],
 	"pluginsConfig": {
 		"searchLanguages": {

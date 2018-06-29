@@ -1,5 +1,4 @@
 import gulp from 'gulp';
-import runSequence from 'run-sequence';
 import del from 'del';
 import sftp from 'gulp-sftp';
 
@@ -24,16 +23,7 @@ gulp.task('upload', function() {
 			port: "54321",
 			user: "helpnet",
 			pass: "B0zpRn4N1Z",
-			remotePath: "/home/helpnet/public_html/manual/"
+			remotePath: "/home/helpnet/public_html/doc/"
 		})
 	);
 });
-
-gulp.task('default', (cb) => {
-	return runSequence(
-		'del',
-		'upload',
-		cb
-	);
-});
-
