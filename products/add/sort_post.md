@@ -1,6 +1,6 @@
 # 投稿の並び替え
 
-[カテゴリーの並び替え](kategornobie.md)と同じ要領で投稿記事を並び替えてみます。
+[カテゴリーの並び替え](sort_category.md)と同じ要領で投稿記事を並び替えてみます。
 
 ![](../../.gitbook/assets/sukurnshotto-2018-06-29-181347.png)
 

@@ -2,14 +2,14 @@
 
 こちらの記事を過去プランに移動してみます。
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
   
 記事の編集画面の移動し、最下部にある「取次終了欄に入れる」チェックボックスにチェックを入れて公開します。
 
-![](../../.gitbook/assets/2018-06-29-18.03.49.gif)
+![](../.gitbook/assets/2018-06-29-18.03.49.gif)
 
 過去プランに入りました。
 
-![](../../.gitbook/assets/sukurnshotto-2018-06-29-180916.png)
+![](../.gitbook/assets/sukurnshotto-2018-06-29-180916.png)
 
