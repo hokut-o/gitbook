@@ -17,4 +17,6 @@
 * [サポートページの更新](support/README.md)
   * [お知らせページの更新](support/news.md)
   * [マニュアル・ルールページの更新](support/manual.md)
+  * [組織図ページの更新](support/organization.md)
+  * [カレンダーページの更新](support/calendar.md)
 
