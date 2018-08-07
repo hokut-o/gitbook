@@ -5,8 +5,7 @@ description: >-
 
 # 契約者情報の登録
 
-１．右上のユーザー名をクリックください。
-
+１．右上のユーザー名をクリックください。  
 ２．メニューが表示されるので「契約者情報」をご選択ください。
 
 ![](.gitbook/assets/fireshot-capture-37-suposuta-pji-httpsspo-stacomcontactbasicinfodetail.png)
